@@ -5,6 +5,9 @@ Requirements
 - The program converts the argument to English phrases.
 Example:
 Command: php ./num_to_eng.php 1234
+```bash 
+php ./num_to_eng.php 1234
+```
 Output: one thousand, two hundreds and thirty-four
 - Put a hyphen ‘-’ between the last digit and the last 2 digits.
 - Put ‘and’ between the ‘hundred’ and the last 2 digits.
